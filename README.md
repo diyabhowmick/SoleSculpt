@@ -3,7 +3,9 @@ Welcome to the SoleSculpt GitHub repository! This repository contains the source
 
 Key Features:
 
-Responsive and visually appealing design
-Informative sections about the company and its products
-Integration with GitHub Pages for easy deployment
+1. Responsive and visually appealing design
+2. Informative sections about the company and its products
+3. Integration with GitHub Pages for easy deployment
+
+   
 Stay tuned for updates as we prepare to launch our stylish and budget-friendly footwear collection!
